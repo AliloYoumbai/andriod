@@ -52,3 +52,6 @@ gulp.task('webserver', function() {
 });
 
 gulp.task('default', ['copylibs', 'typescript', 'watch', 'webserver']);
+
+
+alert("ff");
